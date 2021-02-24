@@ -28,7 +28,7 @@ class DatabaseProvider{
           "ids TEXT,"
           "title TEXT,"
           "amount REAL,"
-          "date TEXT))"
+          "date TEXT"
           ")");
     },);
   }
